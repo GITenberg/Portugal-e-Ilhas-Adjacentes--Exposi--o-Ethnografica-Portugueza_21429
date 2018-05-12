@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9919
     wikipedia: http://pt.wikipedia.org/wiki/Adolfo_coelho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21429#Portugal-e-Ilhas-Adjacentes--Exposi--o-Ethnografica-Portugueza
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2007-05-13'
 gutenberg_type: Text
