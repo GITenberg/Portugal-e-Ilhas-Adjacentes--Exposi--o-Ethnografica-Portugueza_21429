@@ -1,0 +1,38 @@
+_repo: Portugal-e-Ilhas-Adjacentes--Exposi--o-Ethnografica-Portugueza_21429
+_version: 0.1.0
+alternative_title: 'Portugal e Ilhas Adjacentes: Exposição Etnográfica Portuguesa'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coelho, Adolfo
+    aliases:
+    - Coelho, F. Adolfo (Francisco Adolfo)
+    - Coelho, Francisco Adolfo
+    birthdate: 1847
+    deathdate: 1919
+    gutenberg_agent_id: '9919'
+    url: http://www.gutenberg.org/2009/agents/9919
+    wikipedia: http://pt.wikipedia.org/wiki/Adolfo_coelho
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2007-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21429'
+  lccn: '35022160'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal)"
+publication_note: "Lisboa:\r\nImprensa Nacional\r\n1896"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- Portugal'
+- !lcc 'DP'
+title: 'Portugal e Ilhas Adjacentes: Exposição Ethnografica Portugueza'
+url: http://www.gutenberg.org/ebooks/21429
